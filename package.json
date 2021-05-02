@@ -1,0 +1,25 @@
+{
+  "name": "fluid-image-expo",
+  "version": "1.0.0",
+  "description": "Progressive Image Loading for Expo",
+  "main": "FluidImage.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "progressive",
+    "image",
+    "processing",
+    "fast-image",
+    "image-caching"
+  ],
+  "author": "Visweswaran N",
+  "license": "MIT",
+  "dependencies": {
+    "expo-file-system": "~11.0.2",
+    "expo-crypto": "~9.1.0"
+  }
+}
